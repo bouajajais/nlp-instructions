@@ -46,8 +46,8 @@ Chaque groupe :
 
 1. **Choix du sujet et du dataset**
 2. **Conception de la pipeline**
-3. **Mise en place du socle "tronc commun"** (partie obligatoire)
-4. **Intégration d'extensions / variantes** (partie optionnelle)
+3. **Mise en place du socle "tronc commun"**
+4. **Intégration d'extensions / variantes**
 5. **Expérimentation et évaluation**
 6. **Préparation de la démo et de la présentation**
 
@@ -106,7 +106,7 @@ Un dépôt Git propre (ou dossier structuré) contenant :
   - Comment installer les dépendances
   - Comment exécuter le code
   - Comment reproduire les résultats
-- **Notebook ou application** pour la démo (optionnel mais recommandé)
+- **Notebook ou application** pour la démo
 
 ### Présentation orale (30 minutes)
 
